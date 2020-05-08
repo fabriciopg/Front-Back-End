@@ -1,2 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.junit.Test"/>
+    <fullyQualifiedTypeName name="br.ce.wcaquino.taskbackend.model.Task"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="br.ce.wcaquino.taskbackend.controller.TaskController"/>
+    <fullyQualifiedTypeName name="br.ce.wcaquino.taskbackend.utils.ValidationException"/>
+    <fullyQualifiedTypeName name="org.junit.Assert"/>
+    <fullyQualifiedTypeName name="org.mockito.Mock"/>
+    <fullyQualifiedTypeName name="br.ce.wcaquino.taskbackend.repo.TaskRepo"/>
+    <fullyQualifiedTypeName name="org.mockito.InjectMocks"/>
+    <fullyQualifiedTypeName name="org.junit.Before"/>
+    <fullyQualifiedTypeName name="org.mockito.MockitoAnnotations"/>
+</qualifiedTypeNameHistroy>

@@ -336,3 +336,174 @@
 2020-05-02 16:15:49,278 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 22 resources
 2020-05-02 16:15:49,449 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-05-02 16:15:49,449 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-frontend-master\src\test\resources
+2020-05-03 15:29:22,224 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-03 15:31:36,041 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-03 15:33:16,674 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-03 15:34:45,280 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.ce.wcaquino:tasks-backend:0.0.1-SNAPSHOT @ C:\Users\edbfpga\CICD\Front-Back-End\tasks-backend-master\pom.xml.
+2020-05-03 15:34:45,942 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.ce.wcaquino:tasks-frontend:0.0.1-SNAPSHOT @ C:\Users\edbfpga\CICD\Front-Back-End\tasks-frontend-master\pom.xml.
+2020-05-03 15:34:47,150 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tasks-backend-master/src/main/java
+2020-05-03 15:34:47,151 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tasks-backend-master/src/main/resources
+2020-05-03 15:34:47,158 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tasks-backend-master/src/main/resources
+2020-05-03 15:34:47,159 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tasks-backend-master/src/test/java
+2020-05-03 15:34:49,773 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tasks-frontend-master/src/main/java
+2020-05-03 15:34:49,774 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tasks-frontend-master/src/main/resources
+2020-05-03 15:34:49,780 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tasks-frontend-master/src/main/resources
+2020-05-03 15:34:49,781 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tasks-frontend-master/src/test/java
+2020-05-03 15:34:50,510 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 2 project(s) in 6 sec
+2020-05-03 15:34:54,028 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 15:34:54,032 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 15:34:54,046 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 15:34:54,049 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 15:34:54,049 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-backend-master\src\test\resources
+2020-05-03 15:34:54,777 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 15:34:54,777 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 15:34:54,781 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 22 resources
+2020-05-03 15:34:54,877 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 15:34:54,877 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-frontend-master\src\test\resources
+2020-05-03 15:35:54,013 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 15:35:54,015 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 15:35:54,016 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 15:35:54,021 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 15:35:54,021 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-frontend-master\src\test\resources
+2020-05-05 18:36:55,950 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-05-05 18:37:07,043 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:37:07,124 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 18:37:07,206 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:37:07,214 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:37:07,214 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-backend-master\src\test\resources
+2020-05-05 18:37:11,254 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:37:11,256 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 18:37:11,264 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 22 resources
+2020-05-05 18:37:11,291 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:37:11,291 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-frontend-master\src\test\resources
+2020-05-05 18:58:57,403 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:58:57,407 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:58:57,407 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:58:57,411 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:58:57,411 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-backend-master\src\test\resources
+2020-05-05 18:59:06,349 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:59:06,352 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 18:59:06,356 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:59:06,358 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:59:06,359 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-backend-master\src\test\resources
+2020-05-05 19:09:52,230 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-05 19:09:53,140 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.ce.wcaquino:tasks-backend:0.0.1-SNAPSHOT @ C:\Users\edbfpga\CICD\Front-Back-End\tasks-backend-master\pom.xml.
+2020-05-05 19:09:55,522 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tasks-backend-master/src/main/java
+2020-05-05 19:09:55,523 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tasks-backend-master/src/main/resources
+2020-05-05 19:09:55,523 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tasks-backend-master/src/main/resources
+2020-05-05 19:09:55,541 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tasks-backend-master/src/test/java
+2020-05-05 19:09:56,612 [Worker-23: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for tasks-backend-master
+2020-05-05 19:09:56,623 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2020-05-05 19:09:57,867 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 19:09:57,868 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 19:09:57,872 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 19:09:57,874 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 19:09:57,874 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-backend-master\src\test\resources
+2020-05-05 19:09:57,875 [Worker-23: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of tasks-backend-master
+2020-05-05 19:09:57,875 [Worker-23: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for tasks-backend-master
+2020-05-05 19:09:57,881 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 19:13:27,353 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 19:13:27,353 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 19:13:27,354 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 19:13:27,357 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 19:13:27,357 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-backend-master\src\test\resources
+2020-05-05 19:14:16,108 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 19:14:16,109 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 19:14:16,109 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 19:14:16,112 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 19:14:16,112 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-backend-master\src\test\resources
+2020-05-05 19:18:10,392 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 19:18:10,392 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 19:18:10,393 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 19:18:10,395 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 19:18:10,396 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-backend-master\src\test\resources
+2020-05-05 20:10:22,724 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:10:22,724 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:10:22,724 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:10:22,726 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:10:22,726 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-backend-master\src\test\resources
+2020-05-05 20:12:04,662 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:12:04,663 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:12:04,663 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:12:04,664 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:12:04,665 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-backend-master\src\test\resources
+2020-05-05 20:12:14,718 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:12:14,719 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:12:14,720 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:12:14,723 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:12:14,724 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-backend-master\src\test\resources
+2020-05-05 20:13:17,245 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:13:17,245 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:13:17,246 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:13:17,247 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:13:17,247 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-backend-master\src\test\resources
+2020-05-05 20:14:00,526 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:14:00,526 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:14:00,526 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:14:00,528 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:14:00,528 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-backend-master\src\test\resources
+2020-05-05 20:15:05,966 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:15:05,966 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:15:05,966 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:15:05,968 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:15:05,968 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-backend-master\src\test\resources
+2020-05-05 20:24:47,542 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:24:47,543 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:24:47,543 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:24:47,544 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:24:47,544 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-backend-master\src\test\resources
+2020-05-05 20:25:02,845 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:25:02,846 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:25:02,846 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:25:02,849 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:25:02,849 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-backend-master\src\test\resources
+2020-05-05 20:28:41,150 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:28:41,151 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:28:41,151 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:28:41,153 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:28:41,154 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-backend-master\src\test\resources
+2020-05-05 20:33:22,602 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:33:22,603 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:33:22,604 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:33:22,606 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:33:22,606 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-backend-master\src\test\resources
+2020-05-05 20:38:08,403 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:38:08,403 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:38:08,404 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:38:08,406 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:38:08,406 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-backend-master\src\test\resources
+2020-05-05 20:41:22,933 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:41:22,934 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:41:22,934 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:41:22,935 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:41:22,935 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-backend-master\src\test\resources
+2020-05-05 20:41:56,639 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:41:56,639 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:41:56,640 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:41:56,641 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:41:56,641 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-backend-master\src\test\resources
+2020-05-05 20:43:45,492 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:43:45,493 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:43:45,493 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:43:45,495 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:43:45,495 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-backend-master\src\test\resources
+2020-05-05 20:44:09,740 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:44:09,740 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:44:09,740 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:44:09,742 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:44:09,742 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-backend-master\src\test\resources
+2020-05-05 20:47:25,627 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:47:25,628 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:47:25,629 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:47:25,630 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:47:25,630 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-backend-master\src\test\resources
+2020-05-05 20:55:59,576 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:55:59,576 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:55:59,576 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 20:55:59,578 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 20:55:59,578 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-backend-master\src\test\resources
+2020-05-05 21:01:27,514 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 21:01:27,515 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 21:01:27,515 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 21:01:27,516 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 21:01:27,517 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\edbfpga\CICD\Front-Back-End\tasks-backend-master\src\test\resources
